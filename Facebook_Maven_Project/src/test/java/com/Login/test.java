@@ -12,7 +12,7 @@ public class test {
 
 		//
 		System.out.println("welcome QA");
-
+		System.out.println("welcome QA1");
 	}
 
 }
