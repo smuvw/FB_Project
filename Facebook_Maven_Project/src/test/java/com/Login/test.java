@@ -6,8 +6,13 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("hi");
 		System.out.println("hello");
+
 		
 		System.out.println("welcome to Java");
+
+		//
+		System.out.println("welcome QA");
+
 	}
 
 }
